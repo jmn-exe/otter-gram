@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/otter-gram/static/css/main.38acb2cd.css",
+    "main.js": "/otter-gram/static/js/main.8508c6bc.js",
+    "static/js/787.4ee79baa.chunk.js": "/otter-gram/static/js/787.4ee79baa.chunk.js",
+    "static/media/otter1.jpg": "/otter-gram/static/media/otter1.a2a24a973700a6108dad.jpg",
+    "static/media/otter4.jpg": "/otter-gram/static/media/otter4.43fea2549a1c1101ac58.jpg",
+    "static/media/otter3.jpg": "/otter-gram/static/media/otter3.a750159dae8ab8f3c3f1.jpg",
+    "static/media/otter2.jpg": "/otter-gram/static/media/otter2.ea0175b8485a045a4de7.jpg",
+    "static/media/otter5.jpg": "/otter-gram/static/media/otter5.d4bad69f7cb5fda1ba0b.jpg",
+    "index.html": "/otter-gram/index.html",
+    "main.38acb2cd.css.map": "/otter-gram/static/css/main.38acb2cd.css.map",
+    "main.8508c6bc.js.map": "/otter-gram/static/js/main.8508c6bc.js.map",
+    "787.4ee79baa.chunk.js.map": "/otter-gram/static/js/787.4ee79baa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38acb2cd.css",
+    "static/js/main.8508c6bc.js"
+  ]
+}
